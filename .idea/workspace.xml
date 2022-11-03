@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37d3f60a-4f60-44f3-b129-5caddba7f8a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library Management.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LibraryManagement/Assets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LibraryManagement/Welcome/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LibraryManagement/Welcome/Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LibraryManagement/Welcome/Welcome.java" afterDir="false" />
+    <list default="true" id="37d3f60a-4f60-44f3-b129-5caddba7f8a2" name="Changes" comment="comit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookRegister.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IssuedBookRegister.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LibraryManagement/Functions/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LibraryManagement/Functions/getDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LibraryManagement/Structures/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LibraryManagement/Structures/issueBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LibraryManagement/User/DashBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LibraryManagement/Welcome/OnBoarding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/LibraryManagement/Assets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LibraryManagement/Assets/Assets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/LibraryManagement/Welcome/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/LibraryManagement/Welcome/Register.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/LibraryManagement/Welcome/Welcome.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +41,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "G:/My Drive/IIIT Nagpur/Sem-3/OOP/Library Management"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/My Drive/IIIT Nagpur/Sem-3/OOP/Library Management&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\My Drive\IIIT Nagpur\Sem-3\OOP\Library Management\src\com\LibraryManagement\Welcome" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
