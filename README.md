@@ -1,5 +1,5 @@
 # Library-Management
 
-Library Management System using Java and File Handling
+A mini project "Library Management System" is made by Vasu Bhanderi using Java and File Handling.
 
-Made by Vasu Bhanderi.
+
