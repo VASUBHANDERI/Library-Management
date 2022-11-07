@@ -13,6 +13,7 @@ public class issueBook {
     public issueBook(String id, String name, String author, String studentName,String rollNo) {
         this.id = id;
         this.name = name;
+        this.rollNo=rollNo;
         this.author = author;
         this.studentName = studentName;
         this.issueDate = getDate.GetDate();
